@@ -1,20 +1,60 @@
+#### Always learning and developing new skills
+
+<!-- - 🔭 I’m currently working at <b>none</b> -->
+<!-- - 🔭 How to reach me: [none](about:blank) -->
+
 ## GABRIELSL11
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsl11/)
+<a href="https://github.com/gabrielsl11">
+  <img align="left" alt="GitHub" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://linkedin.com/in/gabrielsl11">
+  <img align="left" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="#">
+  <img align="left" alt="YouTube" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+<br>
 
 ## TECHNOLOGIES
 
-<div>
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</div></br>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+
+<br>
 
 ## LEARNING
 
-<div>
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div></br>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
-Always learning and developing new skills
+<br>
+
+## STATS
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsl11&label=Views&color=gray&style=plastic" alt="gabrielsl11" /> </p>
+
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsl11&theme=dracula&line_height=40&hide_langs_below=1" />
+</span>
+
+<span>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsl11&show_icons=true&theme=dracula&line_height=40" alt="Gabriel's github stats"/>
+</span>
+
+<a href="https://github.com/gabrielsl11/php-get-form">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielsl11&repo=php-get-form&theme=dracula" />
+</a>
+
+<p>
+
+<!-- ![pv](https://pageview.vercel.app/?github_user=gabrielsl11) -->
