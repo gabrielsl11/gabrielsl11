@@ -52,7 +52,7 @@
 </span>
 
 <a href="https://github.com/gabrielsl11/php-get-form">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielsl11&repo=php-get-form&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielsl11&repo=responsive-sidebar-2&theme=dracula" />
 </a>
 
 <p>
