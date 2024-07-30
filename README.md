@@ -51,8 +51,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsl11&show_icons=true&theme=dracula&line_height=40" alt="Gabriel's github stats"/>
 </span>
 
-<a href="https://github.com/gabrielsl11/php-get-form">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielsl11&repo=responsive-sidebar-2&theme=dracula" />
+<a href="https://github.com/gabrielsl11/form-database">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielsl11&repo=form-database&theme=dracula" />
 </a>
 
 <p>
