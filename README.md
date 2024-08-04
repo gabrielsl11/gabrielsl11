@@ -29,7 +29,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" title="PHP"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  title="Visual Studio Code"></code>
 
-<br>
+<!-- <br> -->
 
 ## LEARNING
 
@@ -37,7 +37,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="MySQL"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" title="PHP"></code>
 
-<br>
+<!-- <br> -->
+
+## LEARNING QUEUE
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="NodeJS"></code>
+
+<!-- <br> -->
 
 ## STATS
 
@@ -51,10 +59,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsl11&show_icons=true&theme=dracula&line_height=40" alt="Gabriel's github stats"/>
 </span>
 
-<a href="https://github.com/gabrielsl11/gabrielsl11">
+<!-- <a href="https://github.com/gabrielsl11/gabrielsl11">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielsl11&repo=gabrielsl11&theme=dracula" />
-</a>
-
-<p>
+</a> -->
 
 <!-- ![pv](https://pageview.vercel.app/?github_user=gabrielsl11) -->
