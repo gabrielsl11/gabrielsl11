@@ -1,4 +1,4 @@
-<img align="right" height="280px" src="https://raw.githubusercontent.com/gabrielsl11/gabrielsl11/main/typing1.gif" />
+<img align="right" height="250px" src="https://raw.githubusercontent.com/gabrielsl11/gabrielsl11/main/typing1.gif" />
 
 ```rust
 const profile = {
