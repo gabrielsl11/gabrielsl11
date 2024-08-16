@@ -1,6 +1,6 @@
 <img align="right" height="250px" src="https://raw.githubusercontent.com/gabrielsl11/gabrielsl11/main/typing1.gif" />
 
-```rust
+```javascript
 const profile = {
   name: "Gabriel Souza",
   role: "Web Development",
