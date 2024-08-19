@@ -70,6 +70,10 @@ profile.introdution();
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsl11&show_icons=true&theme=dracula&line_height=40"/>
 </span>
 
+<span>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsl11&theme=dracula"/>
+</span>
+
 <!-- <a href="https://github.com/gabrielsl11/gabrielsl11">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielsl11&repo=gabrielsl11&theme=dracula" />
 </a> -->
