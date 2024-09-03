@@ -43,9 +43,9 @@ profile.introdution();
     <td align="center">CSS</td>
     <td align="center">Javascript</td>
     <td align="center">Bootstrap</td>
-    <td align="center">VS Code</td>
     <td align="center">PHP</td>
     <td align="center">MySQL</td>
+    <td align="center">VS Code</td>
   </tr>
 </table>
 
