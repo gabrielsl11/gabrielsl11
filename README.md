@@ -1,6 +1,10 @@
-<img align="right" height="250px" src="https://raw.githubusercontent.com/gabrielsl11/gabrielsl11/main/typing1.gif" />
+<h1 align="center">GABRIELSL11</h1>
 
-```javascript
+<br>
+
+<img align="right" height="300px" src="https://raw.githubusercontent.com/gabrielsl11/gabrielsl11/main/assets/gif/typing1.gif" />
+
+```assembly
 const profile = {
   name: "Gabriel Souza",
   role: "Web Development",
@@ -16,75 +20,97 @@ const profile = {
 profile.introdution();
 ```
 
-<!-- - 🔭 I’m currently working at <b>none</b> -->
-<!-- - 🔭 How to reach me: [none](about:blank) -->
+<br>
 
-## GABRIELSL11
-
-<a href="https://github.com/gabrielsl11">
-  <code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg"></code>
-</a>
-
-<a href="#">
-  <code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg"></code>
-</a>
-
-<a href="https://linkedin.com/in/gabrielsl11">
-  <code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg"></code>
-</a>
-
-<a href="#">
-  <code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Twitter.svg"></code>
-</a>
+<h1 align="center">TECHNOLOGIES</h1>
 
 <br>
 
-## TECHNOLOGIES
+<div align="center">
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  title="Visual Studio Code"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" title="PHP"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" title="SQL"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="MySQL"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" title="WordPress"></code>
+<table>
+    <tr>
+        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML"></td>
+        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS"></td>
+        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"></td>
+        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"></td>
+        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP"></td>
+        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL"></td>
+        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  title="Visual Studio Code"></td>
+    </tr>
+  <tr>
+    <td align="center">HTML</td>
+    <td align="center">CSS</td>
+    <td align="center">Javascript</td>
+    <td align="center">Bootstrap</td>
+    <td align="center">VS Code</td>
+    <td align="center">PHP</td>
+    <td align="center">MySQL</td>
+  </tr>
+</table>
 
-<!-- <br> -->
+</div>
 
-## LEARNING
+<h1 align="center">LEARNING</h1>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" title="Bootstrap"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git"></code>
+<br>
 
-<!-- <br> -->
+<div align="center">
 
-## LEARNING QUEUE
+<table>
+    <tr>
+        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"></td>
+        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node"></td>
+        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React"></td>
+        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript"></td>
+        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" title="WordPress"></td>
+    </tr>
+  <tr>
+        <td align="center">Git</td>
+        <td align="center">Node</td>
+        <td align="center">React</td>
+        <td align="center">Typescript</td>
+        <td align="center">WordPress</td>
+    </tr>
+</table>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node.JS"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" title="TypeScript"></code>
+</div>
 
-<!-- <br> -->
+<h1 align="center">STATS</h1>
 
-## STATS
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsl11&label=Views&color=red&style=plastic" alt="gabrielsl11" /> </p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gabrielsl11/count.svg" alt="gabrielsl11"/>
+</div>
 
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsl11&theme=dracula&line_height=40&hide_langs_below=1" />
-</span>
+<br>
 
-<span>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsl11&show_icons=true&theme=dracula&line_height=40"/>
-</span>
+<div align="center">
 
-<span>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsl11&theme=dracula"/>
-</span>
+  <span>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsl11&theme=midnight-purple&line_height=40&hide_langs_below=1" />
+  </span>
 
-<!-- <a href="https://github.com/gabrielsl11/gabrielsl11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielsl11&repo=gabrielsl11&theme=dracula" />
-</a> -->
+  <span>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsl11&show_icons=true&theme=midnight-purple&line_height=40"/>
+  </span>
+  
+</div>
 
-<!-- ![pv](https://pageview.vercel.app/?github_user=gabrielsl11) -->
+<!-- 
+
+REFERENCES
+
+https://www.alt-codes.net/
+https://devicon.dev/
+https://dev.to/envoy_/150-badges-for-github-pnk
+https://github.com/anuraghazra/github-readme-stats
+https://letrasff.com/
+https://shields.io/badges
+https://shields.io/docs/logos
+https://www.vectorlogo.zone/
+
+https://profile-counter.glitch.me/{username}/count.svg
+
+-->
