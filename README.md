@@ -2,7 +2,7 @@
 
 <br>
 
-<img align="right" height="300px" src="https://raw.githubusercontent.com/gabrielsl11/gabrielsl11/main/assets/gif/typing1.gif" />
+<img align="right" width="45%" src="https://raw.githubusercontent.com/gabrielsl11/gabrielsl11/main/assets/gif/typing1.gif" />
 
 ```assembly
 const profile = {
@@ -81,6 +81,7 @@ profile.introdution();
 <br>
 
 <div align="center">
+  <strong>NUMBER OF VIEWS</strong><br>
   <img src="https://profile-counter.glitch.me/gabrielsl11/count.svg" alt="gabrielsl11"/>
 </div>
 
@@ -97,6 +98,8 @@ profile.introdution();
   </span>
   
 </div>
+
+<br>
 
 <!-- 
 
