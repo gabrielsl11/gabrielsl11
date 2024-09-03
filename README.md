@@ -1,4 +1,4 @@
-<h1 align="center">GABRIELSL11</h1>
+<h1 align="center">ɢᴀʙʀɪᴇʟꜱʟ11</h1>
 
 <br>
 
@@ -9,7 +9,7 @@ const profile = {
   name: "Gabriel Souza",
   role: "Web Development",
   location: "São Paulo, Brazil ",
-  skills: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+  skills: ["HTML", "CSS", "JavaScript", "Bootstrap"],
   introdution() {
     console.log(`Hi, I am ${this.name}!`);
     console.log(`I am ${this.role} based in ${this.location}. 🌎`);
@@ -22,7 +22,7 @@ profile.introdution();
 
 <br>
 
-<h1 align="center">TECHNOLOGIES</h1>
+<h1 align="center">ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ</h1>
 
 <br>
 
@@ -51,7 +51,7 @@ profile.introdution();
 
 </div>
 
-<h1 align="center">LEARNING</h1>
+<h1 align="center">ʟᴇᴀʀɴɪɴɢ</h1>
 
 <br>
 
@@ -76,13 +76,16 @@ profile.introdution();
 
 </div>
 
-<h1 align="center">STATS</h1>
+<h1 align="center">ꜱᴛᴀᴛꜱ</h1>
 
 <br>
 
 <div align="center">
-  <strong>NUMBER OF VIEWS</strong><br>
+
+  ɴᴜᴍʙᴇʀ ᴏꜰ ᴠɪᴇᴡꜱ
+    
   <img src="https://profile-counter.glitch.me/gabrielsl11/count.svg" alt="gabrielsl11"/>
+  
 </div>
 
 <br>
