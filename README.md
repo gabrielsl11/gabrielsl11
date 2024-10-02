@@ -24,6 +24,10 @@ profile.introdution();
 
 <h1 align="center">​🇫​​🇷​​🇪​​🇶​​🇺​​🇪​​🇳​​🇹​​🇱​​🇾​ ​🇺​​🇸​​🇪​​🇩​</h1>
 
+<div align="center">
+  <code>Technologies I frequently work with</code>
+</div>
+
 <br>
 
 <div align="center">
@@ -35,6 +39,8 @@ profile.introdution();
         <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"></td>
         <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML"></td>
         <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"></td>
+        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL"></td>
+        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node"></td>
         <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  title="Visual Studio Code"></td>
     </tr>
   <tr>
@@ -43,6 +49,8 @@ profile.introdution();
     <td align="center">Git</td>
     <td align="center">HTML</td>
     <td align="center">Javascript</td>
+    <td align="center">MySQL</td>
+    <td align="center">Node</td>
     <td align="center">VS Code</td>
   </tr>
 </table>
@@ -51,18 +59,20 @@ profile.introdution();
 
 <h1 align="center">ʟᴇᴀʀɴɪɴɢ</h1>
 
+<div align="center">
+  <code>Technologies I am currently learning</code>
+</div>
+
 <br>
 
 <div align="center">
 
 <table>
     <tr>
-        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node"></td>
         <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React"></td>
         <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript"></td>
     </tr>
   <tr>
-        <td align="center">Node</td>
         <td align="center">React</td>
         <td align="center">Typescript</td>
     </tr>
@@ -72,6 +82,10 @@ profile.introdution();
 
 <h1 align="center">​🇭​​🇦​​🇸​ ​🇱​​🇪​​🇦​​🇷​​🇳​​🇪​​🇩​</h1>
 
+<div align="center">
+  <code>Technologies I have learned but have little practical experience with</code>
+</div>
+
 <br>
 
 <div align="center">
@@ -79,12 +93,10 @@ profile.introdution();
 <table>
     <tr>
         <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP"></td>
-        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL"></td>
         <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" title="WordPress"></td>
     </tr>
   <tr>
     <td align="center">PHP</td>
-    <td align="center">MySQL</td>
     <td align="center">WordPress</td>
   </tr>
 </table>
