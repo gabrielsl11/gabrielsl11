@@ -9,7 +9,7 @@ const profile = {
   name: "Gabriel Souza",
   role: "Web Development",
   location: "São Paulo, Brazil ",
-  skills: ["HTML", "CSS", "Bootstrap", "JavaScript", "NodeJS"],
+  skills: ["HTML", "CSS", "Bootstrap", "JavaScript", "ReactJS", "NodeJS"],
   introdution() {
     console.log(`Hi, I am ${this.name}!`);
     console.log(`I am ${this.role} based in ${this.location}. 🌎`);
