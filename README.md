@@ -9,7 +9,8 @@ const profile = {
   name: "Gabriel Souza",
   role: "Web Development",
   location: "São Paulo, Brazil ",
-  skills: ["HTML", "CSS", "Bootstrap", "JavaScript", "ReactJS", "NodeJS"],
+  skills: ["HTML", "CSS", "Bootstrap", "Tailwind",
+    "JavaScript", "ReactJS", "NodeJS"],
   introdution() {
     console.log(`Hi, I am ${this.name}!`);
     console.log(`I am ${this.role} based in ${this.location}. 🌎`);
@@ -70,10 +71,12 @@ profile.introdution();
 <table>
     <tr>
         <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React"></td>
+        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind"></td>
         <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript"></td>
     </tr>
   <tr>
         <td align="center">React</td>
+        <td align="center">Tailwind</td>
         <td align="center">Typescript</td>
     </tr>
 </table>
