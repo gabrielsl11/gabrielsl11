@@ -10,7 +10,7 @@ const profile = {
   role: "Web Development",
   location: "São Paulo, Brazil ",
   skills: ["HTML", "CSS", "Bootstrap", "Tailwind CSS",
-    "JavaScript", "React", "Node.js"],
+    "JavaScript", "React", "Node.js", "SQL"],
   introdution() {
     console.log(`Hi, I am ${this.name}!`);
     console.log(`I am ${this.role} based in ${this.location}. 🌎`);
