@@ -1,6 +1,6 @@
 <h1 align="center">ɢᴀʙʀɪᴇʟꜱʟ11</h1>
 
-<br>
+<br />
 
 <img align="right" width="45%" src="https://raw.githubusercontent.com/gabrielsl11/gabrielsl11/main/assets/gif/typing1.gif" />
 
@@ -21,15 +21,15 @@ const profile = {
 profile.introdution();
 ```
 
-<br>
+<br />
 
-<h1 align="center">​🇫​​🇷​​🇪​​🇶​​🇺​​🇪​​🇳​​🇹​​🇱​​🇾​ ​🇺​​🇸​​🇪​​🇩​</h1>
+<h1 align="center">​​🇹​​🇪​​🇨​​🇭​ ​🇸​​🇹​​🇦​​🇨​​🇰​​</h1>
 
 <div align="center">
-  <code>Technologies I frequently work with</code>
+  <code>Tecnologias usadas com frequência</code>
 </div>
 
-<br>
+<br />
 
 <div align="center">
 
@@ -58,13 +58,13 @@ profile.introdution();
 
 </div>
 
-<h1 align="center">ʟᴇᴀʀɴɪɴɢ</h1>
+<br />
 
 <div align="center">
-  <code>Technologies I am currently learning</code>
+  <code>Tecnologias que estou atualmente aprendendo</code>
 </div>
 
-<br>
+<br />
 
 <div align="center">
 
@@ -81,13 +81,13 @@ profile.introdution();
 
 </div>
 
-<h1 align="center">​🇭​​🇦​​🇸​ ​🇱​​🇪​​🇦​​🇷​​🇳​​🇪​​🇩​</h1>
+<br />
 
 <div align="center">
-  <code>Technologies I have learned but have little practical experience with</code>
+  <code>Tecnologias usadas raramente</code>
 </div>
 
-<br>
+<br />
 
 <div align="center">
 
@@ -97,12 +97,13 @@ profile.introdution();
         <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" title="WordPress"></td>
     </tr>
   <tr>
-    <td align="center">PHP</td>
-    <td align="center">WordPress</td>
-  </tr>
+        <td align="center">PHP</td>
+        <td align="center">WordPress</td>
+    </tr>
 </table>
 
 </div>
+
 
 <h1 align="center">ꜱᴛᴀᴛꜱ</h1>
 
