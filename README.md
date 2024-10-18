@@ -41,7 +41,7 @@ profile.introdution();
         <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML"></td>
         <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"></td>
         <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL"></td>
-        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node"></td>
+        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js"></td>
         <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  title="Visual Studio Code"></td>
     </tr>
   <tr>
@@ -51,7 +51,7 @@ profile.introdution();
     <td align="center">HTML</td>
     <td align="center">Javascript</td>
     <td align="center">MySQL</td>
-    <td align="center">Node</td>
+    <td align="center">Node.js</td>
     <td align="center">VS Code</td>
   </tr>
 </table>
@@ -71,13 +71,11 @@ profile.introdution();
 <table>
     <tr>
         <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React"></td>
-        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind"></td>
-        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript"></td>
+        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"></td>
     </tr>
   <tr>
         <td align="center">React</td>
-        <td align="center">Tailwind</td>
-        <td align="center">Typescript</td>
+        <td align="center">Tailwind CSS</td>
     </tr>
 </table>
 
