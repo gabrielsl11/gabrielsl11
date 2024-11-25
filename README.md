@@ -1,6 +1,4 @@
-<h1 align="center">ɢᴀʙʀɪᴇʟꜱʟ11</h1>
-
-<br />
+<h1> ɢᴀʙʀɪᴇʟꜱʟ11</h1>
 
 <!--
 <img width="100%" src="https://raw.githubusercontent.com/gabrielsl11/gabrielsl11/main/assets/gif/typing1.gif" />
@@ -26,121 +24,55 @@ const profile = {
 profile.introdution();
 ```
 
-<p align="center">Busco me tornar um desenvolvedor front-end enquanto também aprendo novas habilidades em desenvolvimento back-end. Uso tecnologias web, como HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, Node.js e React, e estou buscando aprimorar minhas habilidades e aprofundar meu conhecimento nessas áreas.</p>
+<p>Busco me tornar um desenvolvedor front-end enquanto também aprendo novas habilidades em desenvolvimento back-end. Uso tecnologias web, como HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, Node.js e React, e estou buscando aprimorar minhas habilidades e aprofundar meu conhecimento nessas áreas.</p>
 
-<p align="center">Neste momento, estou focado em ampliar meu portfólio, praticando diariamente com pequenos projetos de desenvolvimento web, tanto no front-end quanto no back-end. Além disso, estou aprendendo novas tecnologias por meio de videoaulas, o que tem me ajudado a expandir meu conhecimento prático.</p>
+<p>Neste momento, estou focado em ampliar meu portfólio, praticando diariamente com pequenos projetos de desenvolvimento web, tanto no front-end quanto no back-end. Além disso, estou aprendendo novas tecnologias por meio de videoaulas, o que tem me ajudado a expandir meu conhecimento prático.</p>
 
-<h1 align="center">​​🇹​​🇪​​🇨​​🇭​ ​🇸​​🇹​​🇦​​🇨​​🇰​​</h1>
+<h1>​​🇹​​🇪​​🇨​​🇭​ ​🇸​​🇹​​🇦​​🇨​​🇰​​</h1>
 
-<div align="center">
-  <code>Tecnologias usadas com frequência</code>
+<br />
+
+<div>
+  <span align="center"><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"></span>
+  <span align="center"><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS"></span>
+  <span align="center"><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"></span>
+  <span align="center"><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML"></span>
+  <span align="center"><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"></span>
+  <span align="center"><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL"></span>
+  <span align="center"><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js"></span>
+  <span align="center"><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="Next"></span>
+  <span align="center"><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"></span>
+  <span align="center"><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  title="Visual Studio Code"></span>
+  <span align="center"><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React"></span>
+  <span align="center"><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"></span>
+  <span align="center"><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" title="Next"></span>
 </div>
 
 <br />
 
-<div align="center">
+<!--
+<div>
 
-<table>
-    <tr>
-        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"></td>
-        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS"></td>
-        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"></td>
-        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML"></td>
-        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"></td>
-        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL"></td>
-        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js"></td>
-        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  title="Visual Studio Code"></td>
-        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React"></td>
-        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"></td>
-    </tr>
-  <tr>
-    <td align="center">Bootstrap</td>
-    <td align="center">CSS</td>
-    <td align="center">Git</td>
-    <td align="center">HTML</td>
-    <td align="center">Javascript</td>
-    <td align="center">MySQL</td>
-    <td align="center">Node.js</td>
-    <td align="center">VS Code</td>
-    <td align="center">React</td>
-    <td align="center">Tailwind CSS</td>
-  </tr>
-</table>
-
+  <span align="center"><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next"></span>
+  <span align="center"><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="Typescript"></span>
 </div>
+-->
 
-<br />
+<h1>ꜱᴛᴀᴛꜱ</h1>
 
-<div align="center">
-  <code>Tecnologias que estou atualmente aprendendo</code>
-</div>
-
-<br />
-
-<div align="center">
-
-<table>
-    <tr>
-      <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next"></td>
-      <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"></td>
-      <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="Typescript"></td>
-    </tr>
-
-  <tr>
-    <td align="center">Next</td>
-    <td align="center">Python</td>
-    <td align="center">TypeScript</td>
-  </tr>
-
-</table>
-
-</div>
-
-<br />
-
-<div align="center">
-  <code>Tecnologias usadas raramente</code>
-</div>
-
-<br />
-
-<div align="center">
-
-<table>
-    <tr>
-        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP"></td>
-        <td align="center"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" title="WordPress"></td>
-    </tr>
-  <tr>
-        <td align="center">PHP</td>
-        <td align="center">WordPress</td>
-    </tr>
-</table>
-
-</div>
-
-<h1 align="center">ꜱᴛᴀᴛꜱ</h1>
-
-<br>
-
-<div align="center">
-
-ɴᴜᴍʙᴇʀ ᴏꜰ ᴠɪᴇᴡꜱ
-
-  <img src="https://profile-counter.glitch.me/gabrielsl11/count.svg" alt="gabrielsl11"/>
+<p>ɴᴜᴍʙᴇʀ ᴏꜰ ᴠɪᴇᴡꜱ</p>
+<img src="https://profile-counter.glitch.me/gabrielsl11/count.svg" alt="gabrielsl11"/>
   
 </div>
 
-<br>
-
-<div align="center">
+<div>
 
   <span>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsl11&theme=midnight-purple&line_height=40&hide_langs_below=1" />
+    <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsl11&theme=midnight-purple&line_height=1&hide_langs_below=40" />
   </span>
 
   <span>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsl11&show_icons=true&theme=midnight-purple&line_height=40"/>
+   <img height="225" src="https://github-readme-stats.vercel.app/api?username=gabrielsl11&show_icons=true&theme=midnight-purple&line_height40"/>
   </span>
   
 </div>
@@ -163,5 +95,7 @@ https://www.vectorlogo.zone/
 https://profile-counter.glitch.me/{username}/count.svg
 
 -->
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
