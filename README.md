@@ -30,8 +30,6 @@ profile.introdution();
 
 <p align="center">Neste momento, estou focado em ampliar meu portfólio, praticando diariamente com pequenos projetos de desenvolvimento web, tanto no front-end quanto no back-end. Além disso, estou aprendendo novas tecnologias por meio de videoaulas, o que tem me ajudado a expandir meu conhecimento prático.</p>
 
-<br />
-
 <h1 align="center">​​🇹​​🇪​​🇨​​🇭​ ​🇸​​🇹​​🇦​​🇨​​🇰​​</h1>
 
 <div align="center">
